@@ -1,6 +1,4 @@
 SVM 
-KNN
-hjghgggh
-hijyfvh
+KNNhijyfvh
 hijkbyd5dyy
 hih7rtcvjhjftx
